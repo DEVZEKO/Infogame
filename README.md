@@ -1,2 +1,2 @@
-<img src=“https://github.com/KrisKasprzak/ILI9341_t3_controls”>
+<img src=“https://ibb.co/c8gxkq9”>
 Equalizer
